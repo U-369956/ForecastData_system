@@ -17,3 +17,9 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+# Large data directories
+**/nc_output/
+**/NEW/
+**/1KM1H/
+*.nc
