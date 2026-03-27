@@ -1,0 +1,19 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Backup files
+*.backup
+*.bak
+*.tmp
+
+# IDE
+.history/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
